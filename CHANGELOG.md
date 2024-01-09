@@ -1,3 +1,3 @@
-## 1.0.1
+## 1.0.2
 
-* Minor updates in response to Flutter pub suggestions
+* Updated this plugin to support dart 3
